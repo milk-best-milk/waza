@@ -1,14 +1,14 @@
 <div align="center">
+  <img src="https://cdn.tw93.fun//uPic/Wbrr2J.png" width="120" />
   <h1>Claude Health</h1>
   <p><em>Audit your Claude Code configuration health across all layers.</em></p>
-</div>
-
-<p align="center">
   <a href="https://github.com/tw93/claude-health/stargazers"><img src="https://img.shields.io/github/stars/tw93/claude-health?style=flat-square" alt="Stars"></a>
   <a href="https://github.com/tw93/claude-health/releases"><img src="https://img.shields.io/github/v/tag/tw93/claude-health?label=version&style=flat-square" alt="Version"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://twitter.com/AiTw93"><img src="https://img.shields.io/badge/follow-Tw93-red?style=flat-square&logo=Twitter" alt="Twitter"></a>
-</p>
+</div>
+
+<br/>
 
 A Claude Code [skill](https://docs.anthropic.com/en/docs/claude-code/skills) that systematically reviews your project's setup using the six-layer framework: `CLAUDE.md → rules → skills → hooks → subagents → verifiers`. It detects project complexity, runs three parallel diagnostic agents, and outputs a prioritized report telling you what to fix first.
 
